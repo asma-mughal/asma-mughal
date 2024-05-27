@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I am Asma</h1>
 <h3 align="center">Tech Related Things attract me.</h3>
 
-- 🔭 I’m currently working on **Grocery App.**
+- 🔭 I’m currently working on **Actors Index App.**
 
-- 🌱 I’m currently learning **React Native, Django.**
+- 🌱 I’m currently learning **ReactJS, NodeJs and Databases.**
 
-- 👯 I’m looking to collaborate on **native Mobile apps.**
+- 👯 I’m looking to collaborate on **Web apps.**
 
-- 💬 Ask me about **React Native, React JS, Django**
+- 💬 Ask me about **React JS, NodeJS, MongoDb**
 
 - 📫 How to reach me **asmamughal097@gmail.com**
 
