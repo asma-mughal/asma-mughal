@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Asma</h1>
 <h3 align="center">Tech Related Things attract me.</h3>
 
-- 🔭 I’m currently working on multiple projects and more exciting ventures.
+- 🔭 I’m currently working on multiple exciting projects in **web development**.
 
 - 🌱 I’m currently learning **ReactJS, NodeJs and Databases.**
 
